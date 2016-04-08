@@ -19,5 +19,10 @@ footer {
   height: 50px;
   font-family: "Apple Color Emoji";
   font-size: 1em; }
+  footer a {
+    padding: 10px; }
+    footer a:hover {
+      color: yellow;
+      padding: 5px; }
 
 /*# sourceMappingURL=main.css.map */

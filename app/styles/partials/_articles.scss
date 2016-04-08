@@ -19,4 +19,13 @@ footer {
   height: 50px;
   font-family: "Apple Color Emoji";
   font-size: 1em;
+
+  a{
+    padding:10px;
+    &:hover{
+      color:yellow;
+      padding:5px;
+    }
+  }
+
 }
