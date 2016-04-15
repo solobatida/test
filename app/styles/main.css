@@ -5,9 +5,9 @@
     height: 100px; }
 
 section {
-  color: red; }
+  color: black; }
   section a {
-    color: red; }
+    color: black; }
     section a:hover {
       color: blue; }
 
